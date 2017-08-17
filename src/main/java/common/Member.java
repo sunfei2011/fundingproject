@@ -6,7 +6,7 @@ public class Member {
 	public Member(){
 		
 	}
-	
+	//你好阿。
 	public String getName() {
 		return name;
 	}
