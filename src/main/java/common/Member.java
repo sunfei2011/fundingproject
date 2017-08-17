@@ -3,7 +3,7 @@ package main.java.common;
 public class Member {
 	private String name,gender,email,city;
 	private Integer id,age;
-	
+	//无参构造器；
 	public Member(){
 		
 	}
