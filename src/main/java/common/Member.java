@@ -3,6 +3,11 @@ package main.java.common;
 public class Member {
 	private String name,gender,email,city;
 	private Integer id,age;
+	
+	public Member(){
+		
+	}
+	
 	public String getName() {
 		return name;
 	}
